@@ -156,6 +156,8 @@ gapminder::gapminder %>% filter(country %in% c("Zambia","Rwanda","Zimbabwe","Uni
 - Demonstrate validity of results
 - Contribute to the community
 - Because you have to!
+- See Florian Markowetz Self Selfish Reasons to Work Reproducibly
+    + [https://www.youtube.com/watch?v=yVT07Sukv9Q](https://www.youtube.com/watch?v=yVT07Sukv9Q)
 
 ## How to share data
 
