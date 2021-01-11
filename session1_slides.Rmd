@@ -13,7 +13,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ## (Virtual) welcome to Sheffield
 
-![](http://www.welcometosheffield.co.uk/content/templates/images/9659/Image.jpg?rnd=0.9680026820476794)
+![](images/welcome_to_sheff.jpg)
 
 [http://www.welcometosheffield.co.uk/visit](http://www.welcometosheffield.co.uk/visit)
 
