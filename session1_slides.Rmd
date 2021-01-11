@@ -22,7 +22,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ![](images/teaching_team.PNG)
 
-- Mark Dunning (Bioinformatics Core), Emily Chambers (Bioinformatics Core), Aya Elwazir (PhD)
+- Mark Dunning (Bioinformatics Core), Emily Chambers (Bioinformatics Core), Aya Elwazir (PhD Student)
 - Niamh Errington (PhD student), Sokratis Kariotis (PhD Student)
 
 ## Course Structure
