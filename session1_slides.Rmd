@@ -243,6 +243,7 @@ Credit: CRUK_CI Bioinformatics Core
 
 Credit: CRUK_CI Bioinformatics Core
 
+# Break - 15 minutes
 
 # Spreadsheet Organisation
  
@@ -334,7 +335,7 @@ No matter how much of the analysis is automated, some manual steps are inevitabl
     + cm or mm; days, months or years
 - You can introduce inconsistencies without realising it
     + blank spaces (whitespace) at the end of text
-    + "Male " is not the same as "Male"
+    + "Male " is not the same as "male"
 - Document choices you make about units in a *README* file
 
 
